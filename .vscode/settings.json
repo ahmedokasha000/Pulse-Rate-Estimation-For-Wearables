@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "/home/ahmed000/miniconda3/envs/AI_HC/bin/python",
+    "python.formatting.provider": "black",
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": false,
+    "python.linting.pycodestyleEnabled": true
+}
